@@ -123,3 +123,223 @@ padding: 0;
     margin-top: 15px;
   }
 }
+    width: 1200px;
+    margin: 0 auto;
+}
+.section-ggg{
+    background-image: url("../images/section-bcakkgroundd.svg");
+    width: 1200px;
+    height: 996px;
+    padding-right: 65px;
+    overflow: hidden;
+    padding-left: 131px;
+}
+.p-txt-femboybehruz{
+    font-family: Open sans;
+font-size: 35px;
+font-weight: 800;
+padding-top: 541px;
+color: white;
+line-height: 128.6%;
+letter-spacing: 10%;
+}
+.aaaa{
+    
+text-decoration: none;
+}
+.section-txt-p-txt{
+    padding-top: 39px;
+    color: rgb(255, 255, 255);
+font-family: Open sans;
+font-size: 16px;
+font-weight: 700;
+line-height: 128.6%;
+letter-spacing: 4%;
+}
+.lysiy-mujik{
+border-radius: 65px;
+border: 3px solid white;
+margin-left: 121px;
+}
+.p-txt-txxt{
+    color: rgb(255, 255, 255);
+font-family: Open sans;
+font-size: 16px;
+font-weight: 700;
+line-height: 128.6%;
+padding-top: 37px;
+text-align: center;
+letter-spacing: 4%;
+}
+.section-gg{
+    display: flex;
+}
+.p-ttxt{
+    color: rgb(255, 188, 81);
+font-family: open sans;
+font-size: 21.12px;
+padding-top: 11px;
+font-weight: 900;
+line-height: 128.6%;
+letter-spacing: 7.5%;
+text-align: center;
+text-transform: uppercase;
+}
+.p-tttt{
+    color: rgb(255, 188, 81);
+font-family: open sans;
+padding-top: 4px;
+font-size: 14.08px;
+font-weight: 700;
+line-height: 128.6%;
+letter-spacing: 4%;
+text-align: center;
+}
+.kakayatobaba{
+    border-radius: 65px;
+border: 3px solid white;
+    margin-left: 201px;
+    margin-top: 77px;
+}
+.section-axuell{
+    display: flex;
+    gap: 84px;
+}
+.section-txt-gg{
+    margin-top: 258px;
+}
+.section-txt-gg-two{
+    margin-top: 185px;
+}
+.boroda-eblan{
+    border-radius: 65px;
+    border: 3px solid white;
+    display: inline;
+    position: relative;
+    z-index: 2;
+}
+.staaruxa{
+    margin-top: 149px;
+    margin-left: -16px;
+    position: relative;
+    z-index: 2;
+    border-radius: 65px;
+    border: 3px solid white;
+    display: inline;
+}
+.shluyxa-xz{
+    margin-top: 145px;
+    border-radius: 65px;
+    border: 3px solid white;
+    margin-left: 83px;
+}
+.choto-gg{
+    position: relative;
+   right: 50px;
+   width: 88px;
+height: 61px;
+    bottom: 1130px;
+}
+.choto-gg-dva{
+    position: relative;
+    bottom: 980px;
+    right: 300px;
+}
+.choto-gg-try{
+    position: relative;
+    bottom: 980px;
+    width: 200px;
+    height: 904px;
+    left: 550px;
+}
+.nuxta{
+display: none;
+}
+@media screen and (max-width:400px) {
+    .shluyxa-xz{
+        display: none;
+    }
+    .choto-gg-try{
+        display: none;
+    }
+    .choto-gg-dva{
+        display: none
+    }
+    .p-txt-txxt{
+        padding-top: 37px;
+        padding-left: 45px;
+        font-size: 14px;
+    }
+    .lysiy-mujik{
+        margin-top: 20px;
+        width: 126px;
+height: 126px;
+margin-left: 105px;
+    }
+    .p-ttxt{
+        padding-top: 34px;
+        padding-left: 50px;
+    }
+    .brbrbr{
+        display: none;
+    }
+    .section-ggg{
+        background-image: url("../images/section-bcakkgroundd.svg");
+        width: 400px;
+        padding-left: 30px;
+        padding-right: 0;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: top;
+        margin: auto;
+    }
+    .container{
+        overflow: hidden;
+        width: 400px;
+    }
+    .p-tttt{
+        padding-top: 4px;
+        padding-left: 50px;
+    }
+    .choto-gg{
+        display: none;
+    }
+    .boroda-eblan{
+        display: none;
+    }
+    .staaruxa{
+        display: none;
+    }
+    .kakayatobaba{
+        display: none;
+    }
+    .section-txt-p-txt{
+        display: none;
+    }
+    .p-txt-femboybehruz{
+        text-align: center;
+
+    }
+    .nuxta{
+        display: block;
+        margin-left: 140px;
+        margin-top: 42px;
+    }
+    .section-gg{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;    
+        align-items: center;
+    }
+    .section-txt-gg{
+        margin: 0;
+        margin-top: 50px;
+    }
+    .p-txt-femboybehruz{
+        padding: 0;
+        font-size: 24px;
+        padding-right: 30px;
+        margin-top: 400px;
+    }
+}
+
