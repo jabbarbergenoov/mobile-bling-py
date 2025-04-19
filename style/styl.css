@@ -16,6 +16,7 @@
     line-height: 128.6%;
     letter-spacing: 4%;
     text-align: left;
+
 }
 .h1-txt {
     font-family: Proxima Nova;
@@ -25,10 +26,13 @@
     letter-spacing: 4%;
     text-align: left;
     color: rgb(133, 120, 133);
+    width: 192px;
     margin-top: 2px;
     margin-bottom: 10px;
 }
-.p-texttv {
+.p-textt {
+    width: 255px;
+    /* height: 56px; */
     color: rgb(133, 120, 133);
     font-family: Proxima Nova;
     font-size: 14.61px;
@@ -55,6 +59,7 @@
     margin-top: 16px;
 }
 .images {
+
     width: 707.488159179685px;
     height: 351.77667236328125px;
 }
@@ -64,10 +69,14 @@
 }
 .text{
     padding-top: 40px;
+    margin-left: 200px; 
 }
 
 
 @media screen and (max-width:400px) {
+    .container{
+        overflow: hidden;
+    }
 .countt{
   flex-direction: column-reverse;
   gap: 0px;
@@ -76,8 +85,13 @@
 .text{
     margin: 0px 31px 60px 27px;
 }
-.images {
-   margin-bottom: 0;
+
+.h1-txt{
+    width: 320px;
+}
+.p-textt{
+    width: 290px;
 }
 }
+
 /* maftuna */
