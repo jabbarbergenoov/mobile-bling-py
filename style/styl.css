@@ -167,6 +167,10 @@ a {
 }
 
 @media screen and (max-width: 400px) {
+   .container{
+    overflow: hidden;
+   }
+   
     .disple {
         display: none;
     }
