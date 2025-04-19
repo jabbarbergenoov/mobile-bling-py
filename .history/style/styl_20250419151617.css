@@ -109,27 +109,19 @@
       padding: 0;
     }
     .mobile{
-   padding-left: 35px;
-   
+      text-align: center;
     }
     .lego{
-      font-size: 24px;
-      padding-left: 35px;
-    }
-    .span{
-      font-size: 24px;
+
+      text-align: center;
     }
     .brbrr{
       display: none;
     }
     .it{
-      padding-left: 35px;
-      font-size: 14.61px;
+      text-align: center;
     }
     .robo{
-      padding-left: 35px;
-    }
-    .r-img{
-      display: none;
+      
     }
 }

@@ -104,32 +104,9 @@
 
     .left{
       padding: 0;
+      padding-right: 311px;
     }
     .right{
       padding: 0;
-    }
-    .mobile{
-   padding-left: 35px;
-   
-    }
-    .lego{
-      font-size: 24px;
-      padding-left: 35px;
-    }
-    .span{
-      font-size: 24px;
-    }
-    .brbrr{
-      display: none;
-    }
-    .it{
-      padding-left: 35px;
-      font-size: 14.61px;
-    }
-    .robo{
-      padding-left: 35px;
-    }
-    .r-img{
-      display: none;
     }
 }

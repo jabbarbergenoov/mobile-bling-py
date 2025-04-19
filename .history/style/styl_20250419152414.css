@@ -8,14 +8,13 @@
   margin: 0 auto;
 }
 .begzad {
-    display: flex;
-    gap: 262px;
+  display: flex;
+  gap: 262px;
 }
 .left {
   width: 517.39px;
   height: 374.17px;
   padding-top: 300px;
-  
 }
 .img1 {
   position: relative;
@@ -77,59 +76,75 @@
   text-align: left;
   padding-top: 10px;
 }
-.tec{
-    display: flex;
-    gap: 13px;
+.tec {
+  display: flex;
+  gap: 13px;
 }
-.robo{
-    color: rgb(92, 14, 98);
-    font-family: Proxima Nova;
-    font-size: 18px;
-    font-weight: 800;
-    line-height: 22px;
-    letter-spacing: 0%;
-    text-align: left;
-    padding-top: 16px;
+.robo {
+  color: rgb(92, 14, 98);
+  font-family: Proxima Nova;
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 22px;
+  letter-spacing: 0%;
+  text-align: left;
+  padding-top: 16px;
 }
-.r-img{
-    padding-top:18px;
+.r-img {
+  padding-top: 18px;
 }
 @media screen and (max-width: 400px) {
-    .container{
-      width: 400px;
-          overflow: hidden;
-    }
-    .begzat{
-    }
+  .container {
+    width: 400px;
+    overflow: hidden;
+  }
+  .begzat {
+  }
 
-    .left{
-      padding: 0;
-    }
-    .right{
-      padding: 0;
-    }
-    .mobile{
-   padding-left: 35px;
-   
-    }
-    .lego{
-      font-size: 24px;
-      padding-left: 35px;
-    }
-    .span{
-      font-size: 24px;
-    }
-    .brbrr{
-      display: none;
-    }
-    .it{
-      padding-left: 35px;
-      font-size: 14.61px;
-    }
-    .robo{
-      padding-left: 35px;
-    }
-    .r-img{
-      display: none;
-    }
+  .left {
+    padding: 0;
+  }
+  .right {
+    padding: 0;
+  }
+  .mobile {
+    padding-left: 35px;
+  }
+  .lego {
+    font-size: 24px;
+    padding-left: 35px;
+  }
+  .span {
+    font-size: 24px;
+  }
+  .brbrr {
+    display: none;
+  }
+  .it {
+    padding-left: 35px;
+    font-size: 14.61px;
+  }
+  .robo {
+    padding-left: 35px;
+  }
+  .r-img {
+    display: none;
+  }
+  .img1 {
+    width: 98.87px;
+    height: 96.77px;
+  }
+  .img2 {
+    width: 98.87px;
+    height: 96.77px;
+  }
+  .img3 {
+    width: 114.16px;
+    height: 113.38px;
+  }
+  .img4 {
+    width: 114.16px;
+    height: 113.38px;
+  }
+  img5
 }
