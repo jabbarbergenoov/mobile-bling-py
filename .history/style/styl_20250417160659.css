@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+.begzad {
+}
+.left {
+  width: 517.39px;
+  height: 374.17px;
+}
+.img1 {
+  position: relative;
+  
+}
+.img2 {
+  position: relative;
+  
+}
+.img3 {
+  position: relative;
+  
+}
+.img4 {
+  position: relative;
+  right: 560px;
+  top: 100px;
+}
+.img5 {
+  position: relative;
+  right: 645px;
+  top: 89px;
+}
+.right {
+  padding-left: 900px;
+  padding-bottom: 500px;
+}
+.mobile {
+  color: rgb(226, 52, 52);
+  font-size: 12.78px;
+  font-weight: 700;
+  line-height: 128.6%;
+  letter-spacing: 4%;
+}
