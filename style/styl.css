@@ -5,6 +5,13 @@
   box-sizing: border-box;
 }
 
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
 .container {
   width: 1200px;
   margin: 0 auto;
@@ -414,6 +421,135 @@ padding: 0;
     width: 1200px;
     margin: 0 auto;
 }
+.bacround {
+    background-image: url("../images/Vector\ 1.svg");
+    width: 1500px;
+    height: 971.33px;
+    padding: 222px 341px 238px 210px;
+}
+.button {
+    position: static;
+    width: 130px;
+    height: 43px;
+    display: flex;
+    padding: 12px 40px 12px 40px;
+    flex: none;
+    margin: 0px 38px;
+    border-radius: 96px;
+    background: rgb(255, 188, 81);
+    color: rgb(255, 255, 255);
+    font-family: Proxima Nova;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    border: none;
+}
+
+.item {
+    display: flex;
+    gap: 38px;
+    margin-left: 196px;
+    margin-right: 38px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.link {
+    color: rgb(255, 255, 255);
+    font-family: Proxima Nova;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    width: 62px;
+    height: 19px;
+}
+
+.link1 {
+    color: rgb(255, 255, 255);
+    font-family: Proxima Nova;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    width: 62px;
+    height: 19px;
+    margin-left: 159px;
+}
+
+.h1 {
+    color: rgb(255, 255, 255);
+    font-family: Proxima Nova;
+    font-size: 54.76px;
+    font-weight: 800;
+    line-height: 67px;
+    letter-spacing: 0%;
+    text-align: left;
+    width: 397.04px;
+    height: 132.35px;
+}
+
+.p-txt {
+    width: 421px;
+    height: 43.36px;
+    color: rgb(255, 255, 255);
+    font-family: Proxima Nova;
+    font-size: 18.25px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-top: 18px;
+    margin-bottom: 38px;
+}
+
+.section {
+    margin-top: 160px;
+}
+
+.button-txt {
+    width: 200px;
+    height: 50px;
+    box-sizing: border-box;
+    border: 1px solid rgba(171, 163, 163, 0.2);
+    border-radius: 4px;
+    background: rgb(121, 138, 201);
+    color: rgb(255, 255, 255);
+    font-family: Proxima Nova;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.emeed {
+    display: flex;
+    gap: 0px;
+    position: absolute;
+    width: 1222px;
+    height: 638px;
+    margin-left: 250px;
+}
+
+.edit {
+    position: absolute;
+    top: -452px;
+}
+
+.edit1 {
+    position: absolute;
+    top: -452px;
+    left: -130px;
+}
+
 
 /* maftuna */
 .p-text {
