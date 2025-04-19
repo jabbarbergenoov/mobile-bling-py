@@ -1,0 +1,112 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+.begzad {
+    display: flex;
+    gap: 262px;
+}
+.left {
+  width: 517.39px;
+  height: 374.17px;
+  padding-top: 300px;
+  
+}
+.img1 {
+  position: relative;
+}
+.img2 {
+  position: relative;
+  bottom: 90px;
+  right: 70px;
+}
+.img3 {
+  position: relative;
+  bottom: 320px;
+  left: 250px;
+}
+.img4 {
+  position: relative;
+  bottom: 230px;
+  right: 155px;
+}
+.img5 {
+  position: relative;
+  bottom: 440px;
+  left: 250px;
+}
+.right {
+  padding-left: 900px;
+  padding-bottom: 400px;
+}
+.mobile {
+  color: rgb(226, 52, 52);
+  font-size: 12.78px;
+  font-weight: 700;
+  line-height: 128.6%;
+  letter-spacing: 4%;
+}
+.lego {
+  color: rgb(92, 94, 110);
+  font-size: 36.53px;
+  font-weight: 800;
+  line-height: 128.6%;
+  letter-spacing: 4%;
+  text-align: left;
+}
+.span {
+  color: rgb(92, 14, 98);
+  font-size: 36.53px;
+  font-weight: 800;
+  line-height: 128.6%;
+  letter-spacing: 4%;
+  text-align: left;
+}
+.it {
+  color: rgb(133, 120, 133);
+  font-family: Proxima Nova;
+  font-size: 14.61px;
+  font-weight: 700;
+  line-height: 128.6%;
+  letter-spacing: 4%;
+  text-align: left;
+  padding-top: 10px;
+}
+.tec{
+    display: flex;
+    gap: 13px;
+}
+.robo{
+    color: rgb(92, 14, 98);
+    font-family: Proxima Nova;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding-top: 16px;
+}
+.r-img{
+    padding-top:18px;
+}
+@media screen and (max-width: 400px) {
+    .container{
+      width: 400px;
+          overflow: hidden;
+    }
+    .begzat{
+    }
+
+    .left{
+      padding: 0;
+      margin-right: 50px;
+    }
+    .right{
+      padding: 0;
+    }
+}
